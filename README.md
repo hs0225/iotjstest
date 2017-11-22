@@ -68,7 +68,7 @@
     - result
       1. If the light is bright, the number will increase.
       2. If the light is dark, the number will decrease.
- - hardware: None. Connect MISO(brown line), MOSI(red line). (important)
+ - hardware: None. Connect MISO(brown line), MOSI(red line). **important** - test_spi_buffer.js
     - process
         1. Run test app 'iotjs run_pass/test_spi_buffer.js'.
     - result
