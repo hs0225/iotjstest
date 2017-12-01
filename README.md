@@ -4,10 +4,11 @@
 
 ### Hardware schematic
 #### Raspberry PI
+  ![rpi3](https://github.com/hs0225/iotjstest/blob/master/rpi-systemio.png)
 #### Artik053
   ![artik053](https://github.com/hs0225/iotjstest/blob/master/artik053-systemio.png)
 #### Stm32f4 discovery
-
+  ![stm32f4](https://github.com/hs0225/iotjstest/blob/master/stm32f4dis-systemio.png)
 ### Test guide
 #### ADC
  - hardware: number3(illumination sensor) - test_adc.js
