@@ -1,0 +1,8 @@
+{
+  "appid": "org.example.iotjsapp5",
+  "iotjs_path": "/home/hosung/work/iotjs/my/iotjs",
+  "timeout": 20,
+  "flash": {
+      "test": "no"
+  }
+}
